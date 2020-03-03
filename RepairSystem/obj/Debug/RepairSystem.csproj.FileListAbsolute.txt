@@ -1,0 +1,15 @@
+F:\WorksSpaces\Visual Studio 2017\RepairSystem\RepairSystem\bin\Debug\RepairSystem.exe.config
+F:\WorksSpaces\Visual Studio 2017\RepairSystem\RepairSystem\bin\Debug\RepairSystem.exe
+F:\WorksSpaces\Visual Studio 2017\RepairSystem\RepairSystem\bin\Debug\RepairSystem.pdb
+F:\WorksSpaces\Visual Studio 2017\RepairSystem\RepairSystem\obj\Debug\RepairSystem.csprojAssemblyReference.cache
+F:\WorksSpaces\Visual Studio 2017\RepairSystem\RepairSystem\obj\Debug\RepairSystem.LoginForm.resources
+F:\WorksSpaces\Visual Studio 2017\RepairSystem\RepairSystem\obj\Debug\RepairSystem.Properties.Resources.resources
+F:\WorksSpaces\Visual Studio 2017\RepairSystem\RepairSystem\obj\Debug\RepairSystem.csproj.GenerateResource.cache
+F:\WorksSpaces\Visual Studio 2017\RepairSystem\RepairSystem\obj\Debug\RepairSystem.csproj.CoreCompileInputs.cache
+F:\WorksSpaces\Visual Studio 2017\RepairSystem\RepairSystem\obj\Debug\RepairSystem.exe
+F:\WorksSpaces\Visual Studio 2017\RepairSystem\RepairSystem\obj\Debug\RepairSystem.pdb
+F:\WorksSpaces\Visual Studio 2017\RepairSystem\RepairSystem\obj\Debug\RepairSystem.RegistForm.resources
+F:\WorksSpaces\Visual Studio 2017\RepairSystem\RepairSystem\obj\Debug\RepairSystem.MainForm.resources
+F:\WorksSpaces\Visual Studio 2017\RepairSystem\RepairSystem\obj\Debug\RepairSystem.WelcomeForm.resources
+F:\WorksSpaces\Visual Studio 2017\RepairSystem\RepairSystem\obj\Debug\RepairSystem.AdminForm.resources
+F:\WorksSpaces\Visual Studio 2017\RepairSystem\RepairSystem\obj\Debug\RepairSystem.SuperAdminForm.resources
